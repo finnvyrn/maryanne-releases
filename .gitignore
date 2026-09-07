@@ -1,0 +1,14 @@
+*.AppImage
+*.zsync
+*.deb
+*.rpm
+*.snap
+
+# Added by my-pi-extension (syncGitignoreWithPiGitignore)
+*.bak
+reports/
+.pi/
+.pi-lens/
+review_*.md
+worker_*.md
+.playwright-mcp/

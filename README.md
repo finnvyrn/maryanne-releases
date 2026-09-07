@@ -31,7 +31,7 @@ Read ebook (EPUB) or PDF aloud to you with natural-sounding voices.
 [Maryanne on Snap Store](https://snapcraft.io/maryanne)
 
 ```bash
-snap install maryanne
+sudo snap install maryanne
 ```
 
 ### Arch Linux AUR

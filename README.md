@@ -14,9 +14,9 @@
   <a href="https://maryanne.app">Learn more at maryanne.app</a>
 </p>
 
-<video src="media/pride-and-prejudice-chap-1.mp4" controls width="360" aria-label="Maryanne natural voice sample"></video>
-
-## Full description
+<video src="media/pride-and-prejudice-chap-1.mp4" controls width="360" poster="media/reader-screenshot.png" aria-label="Maryanne natural voice sample">
+  <a href="media/pride-and-prejudice-chap-1.mp4">Play Maryanne natural voice sample</a>
+</video>
 
 - Your all-in-one ultimate e-book app
   - Reader
@@ -30,12 +30,6 @@
 - Endless free classics.
 - Sentence highlighting, following, sleep timer, variable speed, …
 - Your books, your reading progress, and your listening history stay on your device. We never sell your data.
-
-## Short description
-
-> EPUB & PDF reader with natural text-to-speech voice read-aloud like audiobook
-
-_For Play Store, Snap Store, and AUR listings. 77 characters._
 
 ## Links
 

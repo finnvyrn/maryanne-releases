@@ -1,28 +1,48 @@
-# Maryanne
+# [Maryanne — Visit maryanne.app](https://maryanne.app)
 
-Read ebook (EPUB) or PDF aloud to you with natural-sounding voices.
+<p align="center">
+  <a href="https://maryanne.app">
+    <img src="media/reader-screenshot.png" alt="Maryanne EPUB and PDF reader" width="300">
+  </a>
+</p>
 
-<video src="https://maryanne.app/videos/pride-and-prejudice-chap-1.mp4" controls width="360" aria-label="Maryanne natural voice sample"></video>
+<p align="center">
+  <strong>EPUB &amp; PDF reader with natural text-to-speech voice read-aloud like audiobook</strong>
+</p>
 
-- Unlimited offline listening for free.
+<p align="center">
+  <a href="https://maryanne.app">Learn more at maryanne.app</a>
+</p>
+
+<video src="media/pride-and-prejudice-chap-1.mp4" controls width="360" aria-label="Maryanne natural voice sample"></video>
+
+## Full description
+
+- Your all-in-one ultimate e-book app
+  - Reader
+  - Listener with natural sounding voices
+- Unlimited reading for free.
+- Unlimited listening for free.
 - No account.
 - No ads.
-- Open and listen. No need to convert first.
+- Open and listen. No need to convert to audiobooks first.
 - Fast streaming.
-- Listen to tens of hundred books from public domain for free in the app directly.
-- Sentence highlighting, following, sleep timer, variable speed, and more.
-
----
-
-- Memberships are synced across iOS, Android, macOS, Windows, and Linux. Pay once and listen everywhere. Desktop generates audio even faster.
+- Endless free classics.
+- Sentence highlighting, following, sleep timer, variable speed, …
 - Your books, your reading progress, and your listening history stay on your device. We never sell your data.
 
----
+## Short description
 
-- Site: https://maryanne.app
-- Email: support@sentrialabs.com
-- Privacy Policy: https://maryanne.app/privacy
-- Terms of Service: https://maryanne.app/terms
+> EPUB & PDF reader with natural text-to-speech voice read-aloud like audiobook
+
+_For Play Store, Snap Store, and AUR listings. 77 characters._
+
+## Links
+
+- **Site:** [maryanne.app](https://maryanne.app)
+- **Email:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
+- **Privacy Policy:** [maryanne.app/privacy](https://maryanne.app/privacy)
+- **Terms of Service:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Install
 

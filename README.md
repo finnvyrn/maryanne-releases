@@ -1,5 +1,7 @@
 # [Maryanne — Visit maryanne.app](https://maryanne.app)
 
+[![maryanne](https://snapcraft.io/maryanne/badge.svg)](https://snapcraft.io/maryanne)
+
 <p align="center">
   <a href="https://maryanne.app">
     <img src="media/reader-screenshot.png" alt="Maryanne EPUB and PDF reader" width="300">

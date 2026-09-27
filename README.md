@@ -1,4 +1,4 @@
-# [Maryanne — Visit maryanne.app](https://maryanne.app)
+# Maryanne — Visit maryanne.app
 
 [![maryanne](https://snapcraft.io/maryanne/badge.svg)](https://snapcraft.io/maryanne)
 
@@ -75,5 +75,15 @@ Available artifacts per release:
 - AppImage `.zsync` metadata when generated
 
 AppImage downloads use immutable versioned release assets.
+
+Desktop update feeds:
+
+- [Linux Appcast](appcast-linux.xml)
+
+The Linux desktop client reads the Linux Appcast from the `main` branch. Add
+newest release items at the top of `appcast-linux.xml` only after publishing
+matching GitHub release assets. Keep each `sparkle:version` value equal to the
+release tag version without its leading `v`, and keep `sparkle:os="linux"` so
+other desktop clients do not select Linux artifacts.
 
 AUR package `maryanne-bin` consumes these immutable release assets.

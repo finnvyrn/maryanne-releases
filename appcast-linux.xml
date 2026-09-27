@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Maryanne Linux Updates</title>
+    <link>https://maryanne.app</link>
+    <description>Maryanne Linux desktop updates</description>
+    <item>
+      <title>Maryanne 3.8.0</title>
+      <description><![CDATA[
+        <p>Easier to use.</p>
+        <p>Fix feedback button issue.</p>
+        <p>Fix various issues.</p>
+      ]]></description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure
+        url="https://github.com/finnvyrn/maryanne-releases/releases/download/v3.8.0/Maryanne-x86_64.AppImage"
+        type="application/octet-stream"
+        sparkle:version="3.8.0"
+        sparkle:shortVersionString="3.8.0"
+        sparkle:os="linux" />
+    </item>
+  </channel>
+</rss>

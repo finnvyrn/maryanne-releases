@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <item><title>Maryanne 3.11.0</title><description>Linux release</description><pubDate>Sun, 04 Oct 2026 16:23:50 GMT</pubDate><enclosure url="https://github.com/finnvyrn/maryanne-releases/releases/download/v3.11.0/Maryanne-x86_64.AppImage" type="application/octet-stream" sparkle:version="3.11.0" sparkle:shortVersionString="3.11.0" sparkle:os="linux" /></item><title>Maryanne Linux Updates</title>
+    <item><title>Maryanne 3.11.1</title><description>Linux release</description><pubDate>Mon, 05 Oct 2026 07:46:57 GMT</pubDate><enclosure url="https://github.com/finnvyrn/maryanne-releases/releases/download/v3.11.1/Maryanne-x86_64.AppImage" type="application/octet-stream" sparkle:version="3.11.1" sparkle:shortVersionString="3.11.1" sparkle:os="linux" /></item><item><title>Maryanne 3.11.0</title><description>Linux release</description><pubDate>Sun, 04 Oct 2026 16:23:50 GMT</pubDate><enclosure url="https://github.com/finnvyrn/maryanne-releases/releases/download/v3.11.0/Maryanne-x86_64.AppImage" type="application/octet-stream" sparkle:version="3.11.0" sparkle:shortVersionString="3.11.0" sparkle:os="linux" /></item><title>Maryanne Linux Updates</title>
     <link>https://maryanne.app</link>
     <description>Maryanne Linux desktop updates</description>
     <item>

@@ -1,6 +1,6 @@
 # Maryanne — Visit maryanne.app
 
-[![maryanne](https://snapcraft.io/maryanne/badge.svg)](https://snapcraft.io/maryanne)
+[![maryanne](https://snapcraft.io/maryanne/badge.svg)](https://maryanne.app)
 
 <p align="center">
   <a href="https://maryanne.app">

@@ -4,7 +4,7 @@
 *.rpm
 *.snap
 
-# Added by my-pi-extension (syncGitignoreWithPiGitignore)
+# Added by my-pi-ext (syncGitignoreWithPiGitignore)
 *.bak
 reports/
 .pi/

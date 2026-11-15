@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="https://maryanne.app/downloads/Maryanne.appinstaller" Version="4.3.3.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2021" xmlns:desktop6="http://schemas.microsoft.com/appx/appinstaller/2021/desktop6" desktop6:Scope="user">
+  <MainPackage Name="Sentria.MaryanneEbookPDFreaderwithnaturalvoiceread" Publisher="CN=D1533B98-1FD9-4E26-BA8E-78284841B7A3" ProcessorArchitecture="x64" Uri="https://github.com/finnvyrn/maryanne-releases/releases/download/v4.3.3/Maryanne-4.3.3-windows-x64.msix" Version="4.3.3.0" />
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="6" UpdateBlocksActivation="false" ShowPrompt="true" />
+    <AutomaticBackgroundTask />
+  </UpdateSettings>
+</AppInstaller>

@@ -1104,6 +1104,9 @@ paru -S maryanne-bin
 
 Available artifacts per release:
 
+- Windows x64 MSIX package
+- Windows App Installer metadata
+- SHA-256 checksums
 - Linux x86_64 AppImage
 - SHA-256 checksums
 - AppImage `.zsync` metadata when generated
@@ -1121,4 +1124,6 @@ after publishing matching GitHub release assets. Keep each
 `sparkle:version` value equal to the release tag version without its leading
 `v`, and keep the platform-specific `sparkle:os` value on every item.
 
+
+Windows users install from [Maryanne.appinstaller](Maryanne.appinstaller). The App Installer file points to the immutable MSIX asset for the current release and enables background update checks. Keep its stable URL and update its version and release asset URI for each Windows release.
 AUR package `maryanne-bin` consumes these immutable release assets.

@@ -45,12 +45,6 @@ Maryanne е четец за EPUB и PDF, който също чете книги
 
 Научете повече: https://maryanne.app
 
-## Връзки
-
-- **Сайт:** [maryanne.app](https://maryanne.app)
-- **Имейл:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Политика за поверителност:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Условия за ползване:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Инсталиране
 

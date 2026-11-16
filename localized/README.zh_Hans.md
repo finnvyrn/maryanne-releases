@@ -45,12 +45,6 @@ Maryanne 是一款 EPUB 和 PDF 阅读器，也能用自然的文本转语音声
 
 了解更多：https://maryanne.app
 
-## 链接
-
-- **网站:** [maryanne.app](https://maryanne.app)
-- **电子邮件:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **隐私政策:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **服务条款:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## 安装
 

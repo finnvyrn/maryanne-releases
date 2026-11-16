@@ -45,12 +45,6 @@ Maryanne은 EPUB 및 PDF 리더이자 자연스러운 텍스트 음성 변환 �
 
 자세히 알아보기: https://maryanne.app
 
-## 링크
-
-- **사이트:** [maryanne.app](https://maryanne.app)
-- **이메일:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **개인정보처리방침:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **서비스 약관:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## 설치
 

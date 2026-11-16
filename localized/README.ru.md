@@ -45,12 +45,6 @@ Maryanne — это читалка EPUB и PDF, которая также чит
 
 Узнать больше: https://maryanne.app
 
-## Ссылки
-
-- **Сайт:** [maryanne.app](https://maryanne.app)
-- **Электронная почта:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Политика конфиденциальности:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Условия использования:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Установка
 

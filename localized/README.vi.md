@@ -45,12 +45,6 @@ Tận hưởng việc đọc và nghe trong một ứng dụng. Dù bạn đang 
 
 Tìm hiểu thêm: https://maryanne.app
 
-## Liên kết
-
-- **Trang web:** [maryanne.app](https://maryanne.app)
-- **Email:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Chính sách quyền riêng tư:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Điều khoản dịch vụ:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Cài đặt
 

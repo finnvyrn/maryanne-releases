@@ -45,12 +45,6 @@ Maryanne — це програма для читання EPUB і PDF, яка т�
 
 Дізнайтеся більше: https://maryanne.app
 
-## Посилання
-
-- **Сайт:** [maryanne.app](https://maryanne.app)
-- **Електронна пошта:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Політика конфіденційності:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Умови використання:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Встановлення
 

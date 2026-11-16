@@ -45,12 +45,6 @@ Bucurați-vă de citit și ascultat într-o singură aplicație. Fie că citiți
 
 Aflați mai multe: https://maryanne.app
 
-## Linkuri
-
-- **Site:** [maryanne.app](https://maryanne.app)
-- **E-mail:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Politica de confidențialitate:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Termeni și condiții:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Instalare
 

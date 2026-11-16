@@ -45,12 +45,6 @@ Maryanne 是一款 EPUB 和 PDF 閱讀器，也能用自然的文字轉語音聲
 
 了解更多：https://maryanne.app
 
-## 連結
-
-- **網站:** [maryanne.app](https://maryanne.app)
-- **電子郵件:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **隱私權政策:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **服務條款:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## 安裝
 

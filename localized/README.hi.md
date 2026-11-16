@@ -45,12 +45,6 @@ Maryanne एक EPUB और PDF रीडर है, जो प्राकृ�
 
 और जानें: https://maryanne.app
 
-## लिंक
-
-- **वेबसाइट:** [maryanne.app](https://maryanne.app)
-- **ईमेल:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **गोपनीयता नीति:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **सेवा की शर्तें:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## इंस्टॉल करें
 

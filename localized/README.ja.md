@@ -45,12 +45,6 @@ Maryanne は EPUB と PDF のリーダーで、自然な音声のテキスト読
 
 詳しくはこちら：https://maryanne.app
 
-## リンク
-
-- **サイト:** [maryanne.app](https://maryanne.app)
-- **メール:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **プライバシーポリシー:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **利用規約:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## インストール
 

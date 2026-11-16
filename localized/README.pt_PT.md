@@ -45,12 +45,6 @@ Desfrute da leitura e da audição numa só aplicação. Quer esteja a ler um eb
 
 Saiba mais: https://maryanne.app
 
-## Ligações
-
-- **Site:** [maryanne.app](https://maryanne.app)
-- **E-mail:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Política de privacidade:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Termos de serviço:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Instalação
 

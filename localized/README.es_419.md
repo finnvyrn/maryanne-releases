@@ -45,12 +45,6 @@ Disfruta de la lectura y la escucha en una sola aplicación. Tanto si lees un li
 
 Más información: https://maryanne.app
 
-## Enlaces
-
-- **Sitio web:** [maryanne.app](https://maryanne.app)
-- **Correo electrónico:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Política de privacidad:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Términos del servicio:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Instalación
 

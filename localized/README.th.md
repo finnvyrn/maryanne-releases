@@ -45,12 +45,6 @@ Maryanne คือโปรแกรมอ่าน EPUB และ PDF ที่
 
 ดูข้อมูลเพิ่มเติม: https://maryanne.app
 
-## ลิงก์
-
-- **เว็บไซต์:** [maryanne.app](https://maryanne.app)
-- **อีเมล:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **นโยบายความเป็นส่วนตัว:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **ข้อกำหนดการให้บริการ:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## ติดตั้ง
 

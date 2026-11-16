@@ -45,12 +45,6 @@ Geniet van lezen en luisteren in één app. Of je nu een e-book leest, klassieke
 
 Meer informatie: https://maryanne.app
 
-## Links
-
-- **Website:** [maryanne.app](https://maryanne.app)
-- **E-mail:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Privacybeleid:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Servicevoorwaarden:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Installeren
 

@@ -45,12 +45,6 @@ Nauti lukemisesta ja kuuntelemisesta yhdessä sovelluksessa. Luetpa e-kirjaa, tu
 
 Lue lisää: https://maryanne.app
 
-## Linkit
-
-- **Sivusto:** [maryanne.app](https://maryanne.app)
-- **Sähköposti:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Tietosuojakäytäntö:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Käyttöehdot:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Asennus
 

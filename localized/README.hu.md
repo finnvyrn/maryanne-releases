@@ -45,12 +45,6 @@ Nincs szükség fiókra. Nincsenek hirdetések. Olvass és hallgass ingyen.
 
 Tudj meg többet: https://maryanne.app
 
-## Hivatkozások
-
-- **Webhely:** [maryanne.app](https://maryanne.app)
-- **E-mail:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Adatvédelmi irányelvek:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Szolgáltatási feltételek:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Telepítés
 

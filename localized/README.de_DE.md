@@ -45,12 +45,6 @@ Genieße Lesen und Zuhören in einer App. Ob du ein E-Book liest, klassische Lit
 
 Mehr erfahren: https://maryanne.app
 
-## Links
-
-- **Website:** [maryanne.app](https://maryanne.app)
-- **E-Mail:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Datenschutzerklärung:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Nutzungsbedingungen:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Installation
 

@@ -45,12 +45,6 @@ Enjoy reading and listening in one app. Whether you're reading an ebook, explori
 
 Learn more: https://maryanne.app
 
-## Links
-
-- **Site:** [maryanne.app](https://maryanne.app)
-- **Email:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Privacy Policy:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Terms of Service:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Install
 

@@ -45,12 +45,6 @@ Maryanne הוא קורא EPUB ו-PDF שקורא גם את הספרים שלכם 
 
 למידע נוסף: https://maryanne.app
 
-## קישורים
-
-- **אתר:** [maryanne.app](https://maryanne.app)
-- **דוא״ל:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **מדיניות פרטיות:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **תנאי השירות:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## התקנה
 

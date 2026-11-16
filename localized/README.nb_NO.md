@@ -45,12 +45,6 @@ Nyt lesing og lytting i én app. Enten du leser en e-bok, utforsker klassisk lit
 
 Les mer: https://maryanne.app
 
-## Lenker
-
-- **Nettsted:** [maryanne.app](https://maryanne.app)
-- **E-post:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Personvern:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Tjenestevilkår:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Installasjon
 

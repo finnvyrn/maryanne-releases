@@ -45,12 +45,6 @@ Uživajte u čitanju i slušanju u jednoj aplikaciji. Bilo da čitate e-knjigu, 
 
 Saznajte više: https://maryanne.app
 
-## Poveznice
-
-- **Web-mjesto:** [maryanne.app](https://maryanne.app)
-- **E-pošta:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Pravila privatnosti:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Uvjeti korištenja:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Instalacija
 

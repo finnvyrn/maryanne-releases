@@ -45,12 +45,6 @@
 
 Μάθετε περισσότερα: https://maryanne.app
 
-## Σύνδεσμοι
-
-- **Ιστότοπος:** [maryanne.app](https://maryanne.app)
-- **Email:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Πολιτική απορρήτου:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Όροι υπηρεσίας:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Εγκατάσταση
 

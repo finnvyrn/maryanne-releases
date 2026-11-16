@@ -45,12 +45,6 @@ Tek bir uygulamada okumanın ve dinlemenin keyfini çıkarın. İster e-kitap ok
 
 Daha fazla bilgi: https://maryanne.app
 
-## Bağlantılar
-
-- **Site:** [maryanne.app](https://maryanne.app)
-- **E-posta:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Gizlilik Politikası:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Hizmet Şartları:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Kurulum
 

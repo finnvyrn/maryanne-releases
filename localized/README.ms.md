@@ -45,12 +45,6 @@ Nikmati membaca dan mendengar dalam satu aplikasi. Sama ada anda sedang membaca 
 
 Ketahui lebih lanjut: https://maryanne.app
 
-## Pautan
-
-- **Laman web:** [maryanne.app](https://maryanne.app)
-- **E-mel:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Dasar Privasi:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Syarat Perkhidmatan:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Pemasangan
 

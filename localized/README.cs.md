@@ -45,12 +45,6 @@ Užijte si čtení i poslech v jedné aplikaci. Ať už čtete elektronickou kni
 
 Zjistěte více: https://maryanne.app
 
-## Odkazy
-
-- **Web:** [maryanne.app](https://maryanne.app)
-- **E-mail:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Zásady ochrany soukromí:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Podmínky služby:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Instalace
 

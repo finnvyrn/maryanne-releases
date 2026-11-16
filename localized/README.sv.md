@@ -45,12 +45,6 @@ Njut av läsning och lyssning i en app. Oavsett om du läser en e-bok, utforskar
 
 Läs mer: https://maryanne.app
 
-## Länkar
-
-- **Webbplats:** [maryanne.app](https://maryanne.app)
-- **E-post:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **Integritetspolicy:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **Användarvillkor:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## Installation
 

@@ -45,12 +45,6 @@ Maryanne قارئ لكتب EPUB وملفات PDF، ويقرأ كتبك بصوت 
 
 اعرف المزيد: https://maryanne.app
 
-## الروابط
-
-- **الموقع:** [maryanne.app](https://maryanne.app)
-- **البريد الإلكتروني:** [support@sentrialabs.com](mailto:support@sentrialabs.com)
-- **سياسة الخصوصية:** [maryanne.app/privacy](https://maryanne.app/privacy)
-- **شروط الخدمة:** [maryanne.app/terms](https://maryanne.app/terms)
 
 ## التثبيت
 

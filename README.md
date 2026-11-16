@@ -15,7 +15,7 @@
 </video>
 
 <a id="en_us"></a>
-## English — United States
+## English
 
 ### Read EPUB Books & PDFs. Listen With Natural-Sounding Voices.
 

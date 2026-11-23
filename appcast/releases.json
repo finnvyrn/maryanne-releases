@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "releases": [
+    {
+      "version": "4.5.7",
+      "platforms": {
+        "linux": true,
+        "macos": true,
+        "windows": true
+      },
+      "urls": {
+        "linux": "https://github.com/finnvyrn/maryanne-releases/releases/download/v4.5.7/Maryanne-x86_64.AppImage",
+        "macos": "https://github.com/finnvyrn/maryanne-releases/releases/tag/v4.5.7",
+        "windows": "https://github.com/finnvyrn/maryanne-releases/releases/tag/v4.5.7"
+      },
+      "releaseNotes": {
+        "ar": "تم إصلاح مشكلات العرض في لغات مثل الألمانية والفرنسية.\n",
+        "bg": "Отстранени проблеми с рендирането на езици като немски и френски.\n",
+        "cs-CZ": "Opraveny problémy s vykreslováním v jazycích, jako jsou němčina a francouzština.\n",
+        "de-DE": "Darstellungsprobleme in Sprachen wie Deutsch und Französisch wurden behoben.\n",
+        "el-GR": "Διορθώθηκαν προβλήματα απόδοσης σε γλώσσες όπως τα γερμανικά και τα γαλλικά.\n",
+        "en-US": "Fix rendering issues in languages like German and French.\n",
+        "es-419": "Se corrigieron problemas de renderizado en idiomas como el alemán y el francés.\n",
+        "es-ES": "Se corrigieron problemas de renderizado en idiomas como el alemán y el francés.\n",
+        "fi-FI": "Korjattiin renderöintiongelmia saksan ja ranskan kaltaisissa kielissä.\n",
+        "fr-CA": "Correction des problèmes de rendu dans des langues telles que l'allemand et le français.\n",
+        "fr-FR": "Correction des problèmes de rendu dans des langues telles que l'allemand et le français.\n",
+        "hi-IN": "हमने जर्मन और फ्रेंच जैसी भाषाओं में रेंडरिंग संबंधी समस्याओं को ठीक किया है।\n",
+        "hr": "Ispravljeni su problemi s prikazom u jezicima kao što su njemački i francuski.\n",
+        "hu-HU": "Kijavítottuk a megjelenítési problémákat az olyan nyelveken, mint a német és a francia.\n",
+        "id": "Memperbaiki masalah tampilan dalam bahasa seperti Jerman dan Prancis.\n",
+        "it-IT": "Risolti i problemi di visualizzazione in lingue come il tedesco e il francese.\n",
+        "iw-IL": "תוקנו בעיות רינדור בשפות כמו גרמנית וצרפתית.\n",
+        "ja-JP": "ドイツ語やフランス語などの言語におけるレンダリングの問題が修正されました。\n",
+        "ko-KR": "독일어 및 프랑스어와 같은 언어에서 렌더링 문제를 해결했습니다.\n",
+        "ms": "Kami telah memperbaiki masalah paparan dalam bahasa seperti Jerman dan Perancis.\n",
+        "nl-NL": "Weergaveproblemen in talen zoals Duits en Frans zijn opgelost.\n",
+        "no-NO": "Gjengivingsproblemer på språk som tysk og fransk er løst.\n",
+        "pl-PL": "Naprawiono problemy z renderowaniem w językach takich jak niemiecki i francuski.\n",
+        "pt-BR": "Corrigimos problemas de renderização em idiomas como alemão e francês.\n",
+        "pt-PT": "Corrigimos problemas de renderização em idiomas como alemão e francês.\n",
+        "ro": "Au fost remediate problemele de afișare în limbi precum germana și franceza.\n",
+        "ru-RU": "Исправлены проблемы с отображением на таких языках, как немецкий и французский.\n",
+        "sv-SE": "Problem med rendering i språk som tyska och franska har åtgärdats.\n",
+        "th": "เราได้แก้ไขปัญหาการแสดงผลในภาษาต่างๆ เช่น ภาษาเยอรมันและภาษาฝรั่งเศส\n",
+        "tr-TR": "Almanca ve Fransızca gibi dillerdeki görüntüleme sorunları düzeltildi.\n",
+        "uk": "Виправлено проблеми з відображенням у таких мовах, як німецька та французька.\n",
+        "vi": "Chúng tôi đã sửa các vấn đề về hiển thị trong các ngôn ngữ như tiếng Đức và tiếng Pháp.\n",
+        "zh-CN": "我们已修复了在德语和法语等语言中的渲染问题。\n",
+        "zh-TW": "已修復在德語和法語等語言中的渲染問題。\n"
+      }
+    }
+  ]
+}

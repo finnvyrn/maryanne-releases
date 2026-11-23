@@ -4,5 +4,11 @@
     <title>Maryanne macOS Updates</title>
     <link>https://maryanne.app</link>
     <description>Maryanne macOS desktop updates</description>
+    <item>
+      <title>Maryanne 4.5.7</title>
+      <description>The voice picker and reader dialogs, including the table of contents and reading settings, now open reliably. This fixes an issue that could prevent users from continuing to read or listen.</description>
+      <pubDate>Sat, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/finnvyrn/maryanne-releases/releases/tag/v4.5.7" type="text/html" sparkle:version="4.5.7" sparkle:shortVersionString="4.5.7" sparkle:os="macos" />
+    </item>
   </channel>
 </rss>

@@ -85,16 +85,19 @@ Available artifacts per release:
 
 AppImage downloads use immutable versioned release assets.
 
-Desktop update feeds:
+Desktop update feed:
 
-- [Linux Appcast](appcast-linux.xml)
-- [macOS Appcast](appcast-macos.xml)
+- [Canonical localized release feed](appcast/releases.json)
 
-Linux and macOS desktop clients read their platform-specific Appcast from the
-`main` branch. Add newest release items at the top of the matching Appcast only
-after publishing matching GitHub release assets. Keep each
-`sparkle:version` value equal to the release tag version without its leading
-`v`, and keep the platform-specific `sparkle:os` value on every item.
+Current desktop clients fetch this single JSON feed. Each release declares its
+supported platforms, platform download URLs, and localized release notes. Add a
+new release by running `tool/generate_release_feed.sh VERSION NOTES_ROOT` and
+then merging the new release object into `appcast/releases.json`. The locale
+keys must match the directory names under the Flutter release-notes tree.
+
+The root-level [Linux Appcast](appcast-linux.xml) and
+[macOS Appcast](appcast-macos.xml) remain for older clients only. New clients
+must use the canonical JSON feed and must not fetch those legacy files.
 
 
 Windows users install from [Maryanne.appinstaller](Maryanne.appinstaller). The App Installer file points to the immutable MSIX asset for the current release and enables background update checks. Keep its stable URL and update its version and release asset URI for each Windows release.

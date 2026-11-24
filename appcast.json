@@ -4,14 +4,15 @@
     {
       "version": "4.5.7",
       "platforms": {
-        "linux": true,
-        "macos": true,
-        "windows": true
+        "linux-github": true,
+        "linux-snap-store": true,
+        "linux-flathub": true,
+        "linux-aur": true,
+        "macos-app-store": true,
+        "windows-microsoft-store": true
       },
-      "urls": {
-        "linux": "https://github.com/finnvyrn/maryanne-releases/releases/download/v4.5.7/Maryanne-x86_64.AppImage",
-        "macos": "https://github.com/finnvyrn/maryanne-releases/releases/tag/v4.5.7",
-        "windows": "https://github.com/finnvyrn/maryanne-releases/releases/tag/v4.5.7"
+      "urls-for-direct-downloading": {
+        "linux-github": "https://github.com/finnvyrn/maryanne-releases/releases/download/v4.5.7/Maryanne-x86_64.AppImage"
       },
       "releaseNotes": {
         "ar": "تم إصلاح مشكلات العرض في لغات مثل الألمانية والفرنسية.\n",

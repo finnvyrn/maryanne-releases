@@ -87,13 +87,16 @@ AppImage downloads use immutable versioned release assets.
 
 Desktop update feed:
 
-- [Canonical localized release feed](appcast/releases.json)
+- [Canonical localized release feed](appcast.json)
 
-Current desktop clients fetch this single JSON feed. Each release declares its
-supported platforms, platform download URLs, and localized release notes. Add a
-new release by running `tool/generate_release_feed.sh VERSION NOTES_ROOT` and
-then merging the new release object into `appcast/releases.json`. The locale
-keys must match the directory names under the Flutter release-notes tree.
+Current desktop clients fetch this single JSON feed. Each release declares
+installation-source keys and localized release notes. The supported source keys
+are `linux-github`, `linux-snap-store`, `linux-flathub`, `linux-aur`,
+`macos-app-store`, and `windows-microsoft-store`. Direct download links, when
+available, belong under `urls-for-direct-downloading`; store installations do
+not need direct download URLs. Add a new release by running
+`tool/generate_release_feed.sh VERSION NOTES_ROOT`. The locale keys must match
+the directory names under the Flutter release-notes tree.
 
 The root-level [Linux Appcast](appcast-linux.xml) and
 [macOS Appcast](appcast-macos.xml) remain for older clients only. New clients

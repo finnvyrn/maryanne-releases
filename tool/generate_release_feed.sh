@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Generate the canonical desktop update feed from Maryanne release notes.
+# Installation-source keys control which release channels can update.
 # Usage: tool/generate_release_feed.sh VERSION NOTES_ROOT [OUTPUT]
 set -euo pipefail
 
@@ -11,7 +12,7 @@ fail() {
 [[ $# -ge 2 && $# -le 3 ]] || fail 'usage: tool/generate_release_feed.sh VERSION NOTES_ROOT [OUTPUT]'
 version="$1"
 notes_root="$2"
-output="${3:-appcast/releases.json}"
+output="${3:-appcast.json}"
 [[ "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]] || fail 'version must be X.Y.Z'
 [[ -d "$notes_root" ]] || fail "release notes directory is missing: $notes_root"
 command -v jq >/dev/null 2>&1 || fail 'jq is required'
@@ -37,11 +38,16 @@ jq -n \
   --argjson existingReleases "$existing_releases" \
   '{schemaVersion: 1, releases: ([{
     version: $version,
-    platforms: {linux: true, macos: true, windows: true},
-    urls: {
-      linux: ("https://github.com/finnvyrn/maryanne-releases/releases/download/v" + $version + "/Maryanne-x86_64.AppImage"),
-      macos: ("https://github.com/finnvyrn/maryanne-releases/releases/tag/v" + $version),
-      windows: ("https://github.com/finnvyrn/maryanne-releases/releases/tag/v" + $version)
+    platforms: {
+      "linux-github": true,
+      "linux-snap-store": true,
+      "linux-flathub": true,
+      "linux-aur": true,
+      "macos-app-store": true,
+      "windows-microsoft-store": true
+    },
+    "urls-for-direct-downloading": {
+      "linux-github": ("https://github.com/finnvyrn/maryanne-releases/releases/download/v" + $version + "/Maryanne-x86_64.AppImage")
     },
     releaseNotes: $releaseNotes
   }] + ($existingReleases | map(select(.version != $version))))}' > "$output"

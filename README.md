@@ -95,8 +95,11 @@ are `linux-github`, `linux-snap-store`, `linux-flathub`, `linux-aur`,
 `macos-app-store`, and `windows-microsoft-store`. Direct download links, when
 available, belong under `urls-for-direct-downloading`; store installations do
 not need direct download URLs. Add a new release by running
-`tool/generate_release_feed.sh VERSION NOTES_ROOT`. The locale keys must match
-the directory names under the Flutter release-notes tree.
+`tool/generate_release_feed.sh VERSION NOTES_ROOT`. New releases start with
+`macos-app-store` and `windows-microsoft-store` disabled. The scheduled
+`Update store availability` workflow enables each channel only after its
+public store package reports the exact release version. The locale keys must
+match the directory names under the Flutter release-notes tree.
 
 The root-level [Linux Appcast](appcast-linux.xml) and
 [macOS Appcast](appcast-macos.xml) remain for older clients only. New clients

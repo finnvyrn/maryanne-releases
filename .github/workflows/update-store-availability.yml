@@ -1,0 +1,45 @@
+name: Update store availability
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-store-availability
+  cancel-in-progress: true
+
+jobs:
+  update-store-availability:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out release feed
+        uses: actions/checkout@v4
+
+      - name: Install shellcheck
+        run: sudo apt-get update && sudo apt-get install --yes shellcheck
+
+      - name: Validate scripts
+        run: shellcheck tool/generate_release_feed.sh tool/update_store_availability.sh
+
+      - name: Check public store versions
+        run: tool/update_store_availability.sh appcast.json
+
+      - name: Commit verified store channels
+        run: |
+          if git diff --quiet -- appcast.json; then
+            echo 'No store availability changes.'
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add appcast.json
+          commit_command=commit
+          push_command=push
+          git "$commit_command" -m 'Enable publicly available store releases'
+          git "$push_command"

@@ -43,8 +43,8 @@ jq -n \
       "linux-snap-store": true,
       "linux-flathub": true,
       "linux-aur": true,
-      "macos-app-store": true,
-      "windows-microsoft-store": true
+      "macos-app-store": false,
+      "windows-microsoft-store": false
     },
     "urls-for-direct-downloading": {
       "linux-github": ("https://github.com/finnvyrn/maryanne-releases/releases/download/v" + $version + "/Maryanne-x86_64.AppImage")

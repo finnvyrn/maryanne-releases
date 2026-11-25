@@ -71,6 +71,15 @@ Using `paru`:
 ```bash
 paru -S maryanne-bin
 ```
+### Other Linux distributions
+
+If you do not use the Snap Store or Arch Linux AUR, install the latest x86_64 AppImage for your current user with this copyable command:
+
+```bash
+(command -v curl >/dev/null && curl --fail --silent --show-error --location https://github.com/finnvyrn/maryanne-releases/raw/refs/heads/main/install-linux.sh || wget --quiet --show-progress --tries=3 --output-document=- https://github.com/finnvyrn/maryanne-releases/raw/refs/heads/main/install-linux.sh) | bash
+```
+
+The installer does not require `sudo` or a package manager. It stores Maryanne under `~/.local/share/maryanne`, creates a launcher at `~/.local/bin/maryanne`, and adds a desktop application entry. It requires `curl` or `wget` and an x86_64 Linux desktop.
 
 ## Releases
 

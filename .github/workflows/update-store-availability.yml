@@ -24,7 +24,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install --yes shellcheck
 
       - name: Validate scripts
-        run: shellcheck tool/generate_release_feed.sh tool/update_store_availability.sh
+        run: shellcheck install-linux.sh tool/generate_release_feed.sh tool/update_store_availability.sh
 
       - name: Check public store versions
         run: tool/update_store_availability.sh appcast.json
